@@ -1,6 +1,12 @@
-## Welcome to Microsofts .NET Compiler Platform called ("Roslyn")
+## Welcome to Microsofts .NET C# Compiler
 
 [//]: # (Begin current test results)
+
+Ever thought of trying to write you own complier, maybe tweeking and existing open source compiler 
+like the C# compiler would be enough, how much time have you got?
+[//]: 
+
+
 
 ### Windows - Unit Tests
 |Branch|Debug x86|Debug x64|Release x86|Release x64|Determinism|Debug Integration|Release Integration|
