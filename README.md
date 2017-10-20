@@ -1,12 +1,18 @@
 ## Welcome to Microsofts .NET C# Compiler
 
-[//]: # (Begin current test results)
+
 
 Ever thought of trying to write you own complier, maybe tweeking and existing open source compiler 
 like the C# compiler would be enough, how much time have you got?
-[//]: 
+<br>
+### Where to start
 
 
+Hers's a few links that might move you a litle towards the black art, turns out it's not so unthinkable :
+
+-http://ecsharp.net/lllpg/6-how-to-write-a-parser.html   ..it's all just text at one point
+
+[//]: # (Begin current test results)
 
 ### Windows - Unit Tests
 |Branch|Debug x86|Debug x64|Release x86|Release x64|Determinism|Debug Integration|Release Integration|
